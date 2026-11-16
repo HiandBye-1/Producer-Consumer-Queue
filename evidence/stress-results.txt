@@ -1,0 +1,92 @@
+STRESS TEST RESULTS - Seed 7
+Configuration: jobs=2000, producers=8, consumers=8, capacity=3, delay_ms=0
+
+===== cv RUN 1 =====
+Elapsed_ms: 375 ms
+Jobs: 2000
+Produced: 2000
+Dequeued: 2000
+Completed: 2000
+Result_sum: 4998000
+Max_occupancy: 3
+
+===== cv RUN 2 =====
+Elapsed_ms: 366 ms
+Jobs: 2000
+Produced: 2000
+Dequeued: 2000
+Completed: 2000
+Result_sum: 4998000
+Max_occupancy: 3
+
+===== cv RUN 3 =====
+Elapsed_ms: 373 ms
+Jobs: 2000
+Produced: 2000
+Dequeued: 2000
+Completed: 2000
+Result_sum: 4998000
+Max_occupancy: 3
+
+===== cv RUN 4 =====
+Elapsed_ms: 351 ms
+Jobs: 2000
+Produced: 2000
+Dequeued: 2000
+Completed: 2000
+Result_sum: 4998000
+Max_occupancy: 3
+
+===== cv RUN 5 =====
+Elapsed_ms: 416 ms
+Jobs: 2000
+Produced: 2000
+Dequeued: 2000
+Completed: 2000
+Result_sum: 4998000
+Max_occupancy: 3
+
+===== sem RUN 1 =====
+Elapsed_ms: 473 ms
+Jobs: 2000
+Produced: 2000
+Dequeued: 2000
+Completed: 2000
+Result_sum: 4998000
+Max_occupancy: 3
+
+===== sem RUN 2 =====
+Elapsed_ms: 545 ms
+Jobs: 2000
+Produced: 2000
+Dequeued: 2000
+Completed: 2000
+Result_sum: 4998000
+Max_occupancy: 3
+
+===== sem RUN 3 =====
+Elapsed_ms: 502 ms
+Jobs: 2000
+Produced: 2000
+Dequeued: 2000
+Completed: 2000
+Result_sum: 4998000
+Max_occupancy: 3
+
+===== sem RUN 4 =====
+Elapsed_ms: 710 ms
+Jobs: 2000
+Produced: 2000
+Dequeued: 2000
+Completed: 2000
+Result_sum: 4998000
+Max_occupancy: 3
+
+===== sem RUN 5 =====
+Elapsed_ms: 665 ms
+Jobs: 2000
+Produced: 2000
+Dequeued: 2000
+Completed: 2000
+Result_sum: 4998000
+Max_occupancy: 3
